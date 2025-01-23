@@ -2,5 +2,5 @@
 Coming soon (I think).  
 Never in theaters.
 
-Próximamente (creo)
-Jamás en cines
+Próximamente (creo).
+Jamás en cines.
