@@ -1,6 +1,9 @@
 # SungazerToolkit Discord Bot
-Coming soon (I think).  
-Never in theaters.
+Coming soon (I think)
+Never in theaters
+Also in 3D
 
-Próximamente (creo).
-Jamás en cines.
+Próximamente (creo)
+Jamás en cines
+Tambien en 3D
+
