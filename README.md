@@ -1,4 +1,4 @@
-# SungazerToolkit Discord Bot
+# SunToolkit Discord Bot
 Coming soon (I think)
 Never in theaters
 Also in 3D
